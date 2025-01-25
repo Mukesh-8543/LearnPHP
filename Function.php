@@ -61,5 +61,5 @@
         $total = subject(35,45,35,89,89);
 
             precentage($total);
-        
+            
 ?>
