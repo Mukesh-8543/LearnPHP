@@ -23,9 +23,7 @@
     //         secound($number);
     //         echo "Second function number Values .".$number
 
-        function rat($name , $class , $subject){
-                $a = "Hello $name $class $subject";
-                return $a;
-        }
-        $name = rat("Mukesh Kumar", 10 ,"English");
-        echo $name;
+function name($fname , $lanme){
+    echo "Hello $fname $lanme";
+}
+    name("Mukesh", "Yadav");
