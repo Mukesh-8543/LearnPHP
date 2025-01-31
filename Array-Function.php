@@ -320,7 +320,7 @@
             "Class" => 12,
             "Address" => "Katarupur Post Patti",
             "Mo"  => 8543804393,
-            "Mo" => 8543804393,
+            // "Mo" => 8543804393,
             "Email Id" => "My6386887@gmail.com"
         ];
             $newArray = array_values($name);
